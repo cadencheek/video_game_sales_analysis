@@ -1,2 +1,4 @@
 # ignore virtual environment folder
 venv/
+
+csv_files/games_march2025.csv
