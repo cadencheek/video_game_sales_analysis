@@ -2,3 +2,4 @@
 venv/
 
 csv_files/games_march2025.csv
+sql/video_game_db.db
