@@ -40,7 +40,12 @@ Here are my sources from Kaggle:
     * Video Games Sales DataFrame [Dataframe](https://www.kaggle.com/datasets/volodymyrpivoshenko/video-game-sales-dataset)  
     * Video Games Sales Dec 2016 [Dataframe](https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset?select=Video_Games_Sales_as_at_22_Dec_2016.csv)  
     * Steam Games March 2025 [Dataframe](https://www.kaggle.com/datasets/artermiloff/steam-games-dataset/data)
-  
+
+To access the Data Sources:
+    * Right click on csv_files.zip
+    * Extract all files to video_game_sales_analysis
+    
+
 ## Author
 Caden Cheek - Data Analyist  
 
